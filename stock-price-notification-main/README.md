@@ -67,5 +67,5 @@ This project is a robust backend system designed to handle real-time stock price
 
 ## Contact
 
-- **Author:** Danish Sarwar
-- **Email:** danish.sharwar@gmail.com
+- **Author:** Kumar Sundaram
+- **Email:** kumarsundaran118@gmail.com
